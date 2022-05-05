@@ -1,3 +1,4 @@
+---
 postgresql_enablerepo: ""
 
 postgresql_restarted_state: "restarted"
